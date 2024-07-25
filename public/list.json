@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Five Point Someone",
+    "title": "A tale of three friends struggling to cope with the pressures of academic life.",
+    "price": 12.99,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718613363~exp=1718616963~hmac=726792f9a9e48ebd9c76f599c6a1a0a52d70cc1af4ce347575235b669aa7d68e&w=740"
+  },
+  {
+    "id": 2,
+    "name": "The God of Small Things",
+    "title": "A poignant story about family, love, and societal norms in Kerala, India.",
+    "price": 15.5,
+    "category": "Fiction",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718613363~exp=1718616963~hmac=726792f9a9e48ebd9c76f599c6a1a0a52d70cc1af4ce347575235b669aa7d68e&w=740"
+  },
+  {
+    "id": 3,
+    "name": "The Immortals of Meluha",
+    "title": "An epic story set in ancient India, following the journey of Shiva.",
+    "price": 11.25,
+    "category": "Mythology",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718613363~exp=1718616963~hmac=726792f9a9e48ebd9c76f599c6a1a0a52d70cc1af4ce347575235b669aa7d68e&w=740"
+  },
+  {
+    "id": 4,
+    "name": "Those Pricey Thakur Girls",
+    "title": "A romantic comedy about five sisters and their life in Delhi.",
+    "price": 9.75,
+    "category": "Romance",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718613363~exp=1718616963~hmac=726792f9a9e48ebd9c76f599c6a1a0a52d70cc1af4ce347575235b669aa7d68e&w=740"
+  },
+  {
+    "id": 5,
+    "name": "The Namesake",
+    "title": "A novel about the struggles of an Indian-American family in the United States.",
+    "price": 14.0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718613363~exp=1718616963~hmac=726792f9a9e48ebd9c76f599c6a1a0a52d70cc1af4ce347575235b669aa7d68e&w=740"
+  },
+  {
+    "id": 6,
+    "name": "The Blue Umbrella",
+    "title": "A heartwarming story about a girl and her beautiful blue umbrella.",
+    "price": 7.99,
+    "category": "Children",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718613363~exp=1718616963~hmac=726792f9a9e48ebd9c76f599c6a1a0a52d70cc1af4ce347575235b669aa7d68e&w=740"
+  },
+  {
+    "id": 7,
+    "name": "Train to Pakistan",
+    "title": "A gripping tale of love and tragedy set during the Partition of India.",
+    "price": 10.5,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718613363~exp=1718616963~hmac=726792f9a9e48ebd9c76f599c6a1a0a52d70cc1af4ce347575235b669aa7d68e&w=740"
+  },
+  {
+    "id": 8,
+    "name": "Malgudi Days",
+    "title": "A collection of short stories set in the fictional town of Malgudi.",
+    "price": 8.99,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718613363~exp=1718616963~hmac=726792f9a9e48ebd9c76f599c6a1a0a52d70cc1af4ce347575235b669aa7d68e&w=740"
+  },
+  {
+    "id": 9,
+    "name": "A Suitable Boy",
+    "title": "An expansive novel about post-independence India and a mother's search for a suitable match for her daughter.",
+    "price": 18.75,
+    "category": "Fiction",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718613363~exp=1718616963~hmac=726792f9a9e48ebd9c76f599c6a1a0a52d70cc1af4ce347575235b669aa7d68e&w=740"
+  },
+  {
+    "id": 10,
+    "name": "Wise and Otherwise",
+    "title": "A collection of real-life anecdotes and stories by Sudha Murty.",
+    "price": 13.5,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718613363~exp=1718616963~hmac=726792f9a9e48ebd9c76f599c6a1a0a52d70cc1af4ce347575235b669aa7d68e&w=740"
+  }
+]
